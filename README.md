@@ -9,3 +9,7 @@ Make sure the user requested the logs via the command have a role called 'respon
 
 ## Background Context
 Refer to the [CreatureToadz Twitter's thread](https://twitter.com/msuiche/status/1450702711981289472) I wrote on Twitter about how this project was born. 
+
+## Questions or Feedback
+Discord: https://discord.gg/ZRnT6TMPbU
+Twitter: https://www.twitter.com/msuiche
